@@ -1,0 +1,2 @@
+# heidegger-ai-insights-dasein-machine-standing-reserve-detector-ontological-heideggerian-ai-miner
+A machine learning and topic modeling project that filters, clusters, and interprets Heideggerian concepts—such as Dasein, enframing, and standing-reserve—from a curated philosophy dataset.  Using tools like Random Forests, KMeans, PCA, and LDA, this project reveals ontological structures within philosophical text 
